@@ -1,2 +1,2 @@
-# Web-Midtrans---Katalon-Studio
+# Web Midtrans-Katalon-Studio
 Testing web midtrans menggunakan katalon
